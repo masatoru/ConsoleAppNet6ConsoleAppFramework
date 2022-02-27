@@ -1,0 +1,1 @@
+ConsoleAppNet6ConsoleAppFramework
