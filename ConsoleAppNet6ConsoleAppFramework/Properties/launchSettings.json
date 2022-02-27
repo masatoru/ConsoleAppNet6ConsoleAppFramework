@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppNet6ConsoleAppFramework": {
+      "commandName": "Project",
+      "commandLineArgs": "instance"
+    }
+  }
+}

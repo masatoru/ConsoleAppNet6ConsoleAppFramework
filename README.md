@@ -1,1 +1,1 @@
-ConsoleAppNet6ConsoleAppFramework
+.NET6 + Console App Frmaework + ZLogger Console Sample
