@@ -22,5 +22,7 @@ var app = builder.ConfigureServices((ctx, services) =>
 // Commands:
 //   hello (default)
 //   world
-app.AddCommands<MyCommands>();
+app.AddAllCommandType();
+// app.AddCommands<MyCommands>();
+// app.AddCommands<MyCommands2>();
 app.Run();
